@@ -36,3 +36,13 @@ git push -u origin main
 git commit -m "solucionar error"
 git push -u origin main
 git status
+
+## Una tabla con al menos cinco comandos y funciones de Visual Studio Code
+
+| Comando / Acción en VS Code | Función / Descripción |
+| :--- | :--- |
+| `Ctrl + Shift + \`` (o menú Terminal) | Abre o conmuta la terminal integrada de Visual Studio Code en la parte inferior de la pantalla. |
+| `Ctrl + S` | Guarda los cambios realizados en el archivo activo (como el `README.md`). |
+| Modificador `PS` (PowerShell Terminal) | Consola por defecto en VS Code desde la que se ejecutan directamente las instrucciones de sistema y Git. |
+| Editor de texto / Auto-guardado | Permite crear y modificar ficheros en tiempo real mientras el panel lateral muestra el estado de los archivos. |
+| Integración de Control de Cambios | Detecta automáticamente los archivos editados o sin seguimiento (como `README.md`) dentro del proyecto. |
