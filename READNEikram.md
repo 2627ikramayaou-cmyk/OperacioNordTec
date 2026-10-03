@@ -46,3 +46,11 @@ git status
 | Modificador `PS` (PowerShell Terminal) | Consola por defecto en VS Code desde la que se ejecutan directamente las instrucciones de sistema y Git. |
 | Editor de texto / Auto-guardado | Permite crear y modificar ficheros en tiempo real mientras el panel lateral muestra el estado de los archivos. |
 | Integración de Control de Cambios | Detecta automáticamente los archivos editados o sin seguimiento (como `README.md`) dentro del proyecto. |
+
+## INCIDENCIAS DE VISUAL STUDIO CODE
+
+### Incidencia: Error al escribir comandos en la terminal
+
+* **Qué pasó:** La terminal dio error al ejecutar `estatus` y `gir`[cite: 1, 2].
+* **Por qué pasó:** Simples fallos al teclear (typos)[cite: 1, 2].
+* **Cómo se resolvió:** Se volvieron a escribir bien los comandos (`git status` y `git remote -v`)[cite: 1, 2].
